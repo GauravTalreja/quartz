@@ -1,30 +1,74 @@
 @use "../../styles/variables.scss" as *;
 
-@keyframes dropin {
+@keyframes fadeIn {
   0% {
     opacity: 0;
+    transform: translateY(5px);
     visibility: hidden;
   }
+
   1% {
     opacity: 0;
+    transform: translateY(5px);
+    visibility: visible;
   }
+
   100% {
     opacity: 1;
+    transform: translateY(0);
     visibility: visible;
   }
 }
 
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+    transform: translateY(0);
+    visibility: visible;
+  }
+
+  99% {
+    opacity: 0;
+    transform: translateY(5px);
+    visibility: visible;
+  }
+
+  100% {
+    opacity: 0;
+    transform: translateY(5px);
+    visibility: hidden;
+  }
+}
+
 .popover {
-  z-index: 999;
   position: absolute;
   overflow: visible;
-  padding: 1rem;
+  padding: 0;
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(5px);
+  transition: none;
 
-  & > .popover-inner {
+  &.visible {
+    pointer-events: auto;
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    animation: fadeIn 0.2s ease-out;
+    transition: opacity 0.2s ease-out, transform 0.2s ease-out, visibility 0.2s ease-out;
+  }
+
+  &:not(.visible) {
+    animation: fadeOut 0.2s ease-out;
+    pointer-events: none !important;
+  }
+
+  &>.popover-inner {
     position: relative;
     width: 30rem;
     max-height: 20rem;
-    padding: 0 1rem 1rem 1rem;
+    padding: 0.75rem 1rem 1rem 1rem;
     font-weight: initial;
     font-style: initial;
     line-height: normal;
@@ -33,12 +77,23 @@
     border: 1px solid var(--lightgray);
     background-color: var(--light);
     border-radius: 5px;
-    box-shadow: 6px 6px 36px 0 rgba(0, 0, 0, 0.25);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
     overflow: auto;
     white-space: normal;
+
+    a.internal {
+      color: var(--secondary);
+      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      transition: border-color 0.2s ease;
+
+      &:hover {
+        border-bottom-color: var(--secondary);
+      }
+    }
   }
 
-  & > .popover-inner[data-content-type] {
+  &>.popover-inner[data-content-type] {
+
     &[data-content-type*="pdf"],
     &[data-content-type*="image"] {
       padding: 0;
@@ -62,22 +117,32 @@
 
   h1 {
     font-size: 1.5rem;
+    margin-top: 0.5rem;
   }
-
-  visibility: hidden;
-  opacity: 0;
-  transition:
-    opacity 0.3s ease,
-    visibility 0.3s ease;
 
   @media all and ($mobile) {
     display: none !important;
   }
 }
 
-a:hover .popover,
-.popover:hover {
-  animation: dropin 0.3s ease;
-  animation-fill-mode: forwards;
-  animation-delay: 0.2s;
+// Connecting line for nested popovers
+// We need to move this outside the nesting to avoid overflow clipping
+.popover-connector {
+  position: absolute;
+  background-color: var(--lightgray);
+  z-index: 999;
+  pointer-events: none; // Never intercept mouse events
+  opacity: 0;
+  transition: opacity 0.2s ease;
+
+  // Add a subtle gradient for better visibility
+  &::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to right, transparent, var(--lightgray), transparent);
+  }
 }
