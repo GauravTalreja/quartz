@@ -21,3 +21,6 @@ here are some beliefs from *first principles* held during my llm-induced psychot
 - left brain, right brain, corpus callosum
 - destruction, creation, social orchestration
 - i am going to be reduced to a finite state machine
+
+the final output that triggered it was:
+![[explicitly.png]]
