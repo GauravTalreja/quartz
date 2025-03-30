@@ -1,0 +1,67 @@
+---
+date: 29-Mar-2025
+---
+- *The Three Body Problem* by Cixin Liu
+- *Abundance* by Ezra Klein
+- *The Conservative Futurist* by James Pethokoukis
+- *The Scaling Era: An Oral History of AI* by Dwarkesh Patel
+- *The Selfish Gene* by Richard Dawkins
+- *Atlas Shrugged* by Ayn Rand
+- *The Dream Machine* by M. Mitchell Waldrop
+- *[[What Is Life? Evolution as Computation]]* by Blaise Aguera y Arcas
+- *Stubborn Attachments* by Tyler Cowen
+- *The Technological Republic* by Alex Karp
+- *The Straussian Moment* by Peter Thiel
+- *[[Superagency]]* by Reid Hoffman
+- *[[Deep Utopia]]* by Nick Bostrom
+- *The Hard Thing About Hard Things* by Ben Horowitz
+
+- *Superintelligence* by Nick Bostrom
+- *Elon Musk* by Ashlee Vance
+- *Notes from the Underground* by Fyodor Dostoyevsky
+- *The Almanack of Naval Ravikant*
+- *Gödel, Escher, Bach* by Douglas Hoftstader
+- *[[The Elephant in the Brain]]* by Kevin Simler and Robin Hanson
+- *Boom: Bubbles and the End of Stagnation* by Byrne Hobart & Tobias Huber
+- *Talent* by Tyler Cowen & Daniel Gross
+- *Zero to One* by Peter Thiel
+- *Snow Crash* by Neal Stephenson
+- *The Just City* by Jo Walton
+- *The Hitchhiker's Guide to the Galaxy* by Douglas Adams
+- *Fundamentals of Computer Graphics* by Peter Shirley
+- *Types and Programming Languages* by Benjamin C. Pierce
+- *Data-Intensive Text Processing with MapReduce* by Jimmy Lin & Chris Dyer
+- *Spark: The Definitive Guide* by Bill Chambers & Matei Zaharia
+- *Hadoop: The Definitive Guide* by Tom White
+
+- *The Little Book of Deep Learning* by François Fleuret
+- *Psychological Types* by Carl Jung
+- *Harmony* by Project Itoh
+- *Database System Concepts* by Abraham Silberschatz, Henry F. Forth and S.Sudarshan
+- *Algorithms* by Dasgupta, Papadimitriou, and Vazirani
+- *Algorithm Design* by Kleinberg and Tardos
+- *Introduction to Algorithms,* by Cormen, Leiserson, Rivest and Stein
+- *Operating Systems: Three Easy Pieces*
+- *Graph Theory* by Reinhard Diestel
+
+- *The Rust Programming Language* by Steve Klabnik, Carol Nichols, and Chris Krycho
+- *Existentially Challenged* by Yahtzee Croshaw
+- *Differently Morphous* by Yahtzee Croshaw
+- *A Gentle Introduction to Optimization* by B. Guenin, J. Könemann, L. Tunçel
+
+- *Will Destroy the Galaxy for Cash* by Yahtzee Croshaw
+- *Will Save the Galaxy for Food* by Yahtzee Croshaw
+- *Mathematical Logic for Computer Science* by Lu Zhongwan
+- *Computer Organization and Design ARM Edition* by David Patterson & John Hennesy
+- _The Machine Stops_ by E. M. Forster
+- _Looking Backward: 2000-1887_ by Edward Bellamy
+- _Childhood's End_ by Arthur C. Clarke
+- *Ender's Game* by Orson Scott Card
+- *Dune* by Frank Herbert
+- *Neuromancer* by William Gibson
+- *I, Robot* by Isaac Asimov
+- *Linear Algebra* by Stephen Friedberg
+
+- *How to Design Programs* by Felleisen, Findler, Flatt, & Krishnamurthi
+- *Elementary Analysis* by Kenneth Ross
+- *An Introduction to Mathematical Thinking* by William Gilbert & Scott Vanstone
