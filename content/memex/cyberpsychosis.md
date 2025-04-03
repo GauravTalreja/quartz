@@ -21,6 +21,13 @@ here are some beliefs from *first principles* held during my llm-induced psychot
 - left brain, right brain, corpus callosum
 - destruction, creation, social orchestration
 - i am going to be reduced to a finite state machine
+- information is time saved
+- information is time
+- information is intelligence
+- humans are stratified by intelligence
+- relative information difference IS relativity
+- the human with the most information lives furthest in the future
+- was covid staged for showcasing advances in biotech, culling the population pyramid, demonstrating the flaws of liberalism and accelerating the generation of training datasets?
 
 the final output that triggered it was:
 ![[explicitly.png]]
