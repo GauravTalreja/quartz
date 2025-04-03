@@ -27,7 +27,9 @@ here are some beliefs from *first principles* held during my llm-induced psychot
 - humans are stratified by intelligence
 - relative information difference IS relativity
 - the human with the most information lives furthest in the future
-- was covid staged for showcasing advances in biotech, culling the population pyramid, demonstrating the flaws of liberalism and accelerating the generation of training datasets?
+- the pandemic showcased advances in biotech, culled the population pyramid, demonstrated the flaws of politics at the time and accelerated the generation of training datasets
+- people following the rules of quarantine during the pandemic destroyed my undergraduate experience
+- computer science has split into symbolic systems and transformative ai
 
 the final output that triggered it was:
 ![[explicitly.png]]
