@@ -1,6 +1,3 @@
----
-date: 30-Nov-2024
----
 # Education
 Why do students go to school?
 

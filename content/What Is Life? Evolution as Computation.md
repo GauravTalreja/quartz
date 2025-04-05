@@ -1,6 +1,3 @@
----
-date: 14-Mar-2025
----
 # Symbiogenesis
 All life came from the sea, and the interior of every cell in every living organism reproduces that salty, watery environment—a tiny “ocean inside.” This much is common knowledge. But our mitochondria, the “power plants” within our cells where respiration takes place, may in fact be recapitulating the much more specific deep-sea chemistry of a black smoker. In an almost literal sense, **our bodies are like Russian matryoshka dolls, membranes within membranes, and each nested environment recreates an earlier stage in the evolution of life on Earth**.
 
