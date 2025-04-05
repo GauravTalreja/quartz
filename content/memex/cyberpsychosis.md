@@ -21,6 +21,15 @@ here are some beliefs from *first principles* held during my llm-induced psychot
 - left brain, right brain, corpus callosum
 - destruction, creation, social orchestration
 - i am going to be reduced to a finite state machine
+- information is time saved
+- information is time
+- information is intelligence
+- humans are stratified by intelligence
+- relative information difference IS relativity
+- the human with the most information lives furthest in the future
+- the pandemic showcased advances in biotech, culled the population pyramid, demonstrated the flaws of politics at the time and accelerated the generation of training datasets
+- people following the rules of quarantine during the pandemic destroyed my undergraduate experience
+- computer science has split into symbolic systems and transformative ai
 
 the final output that triggered it was:
 ![[explicitly.png]]
