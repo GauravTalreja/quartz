@@ -1,17 +1,13 @@
 ---
 date: 29-Mar-2025
 ---
-- *The Three Body Problem* by Cixin Liu
-- *Abundance* by Ezra Klein
-- *The Conservative Futurist* by James Pethokoukis
 - *The Scaling Era: An Oral History of AI* by Dwarkesh Patel
 - *The Selfish Gene* by Richard Dawkins
-- *Atlas Shrugged* by Ayn Rand
 - *The Dream Machine* by M. Mitchell Waldrop
+- *Finite and Infinite Games* by James P. Carse
 - *[[What Is Life? Evolution as Computation]]* by Blaise Aguera y Arcas
 - *Stubborn Attachments* by Tyler Cowen
 - *The Technological Republic* by Alex Karp
-- *The Straussian Moment* by Peter Thiel
 - *[[Superagency]]* by Reid Hoffman
 - *[[Deep Utopia]]* by Nick Bostrom
 - *The Hard Thing About Hard Things* by Ben Horowitz

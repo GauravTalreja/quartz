@@ -7,5 +7,6 @@ hello! wlecome to my brain
 ## [[bookshelf]]
 ## [[arcade]]
 ## [[ideas]]
+## [[quotes]]
 
 once upon a time, i experienced [[cyberpsychosis]]
