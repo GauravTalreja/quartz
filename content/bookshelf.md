@@ -1,6 +1,7 @@
 ---
-date: 29-Mar-2025
+date: 15-June-2025
 ---
+- *Sapiens: A Brief History of Humankind* by Yuval Noah Harari
 - *The Scaling Era: An Oral History of AI* by Dwarkesh Patel
 - *The Selfish Gene* by Richard Dawkins
 - *The Dream Machine* by M. Mitchell Waldrop

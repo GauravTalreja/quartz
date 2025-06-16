@@ -1,0 +1,1 @@
+The perfect fusion of Final Fantasy XIV and Game of Thrones that can only be truly appreciated by people that are fans of both.
